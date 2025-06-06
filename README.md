@@ -15,24 +15,24 @@ This sales data analysis project focuses on examining a company's sales data to 
 ## Approach to analysis:
 
 The analysis will include categorizing data by product, time period, and segments (Sales Channel) to assess:
-•	Profitability by product line
-•	Sales volume and Revenue trends
-•	Factors impacting sales performance and profitability (discounts, region and seasonality)
-•	Revenue generation by segments
-•	Opportunities for growth and operational improvement
+-	Profitability by product line
+-	Sales volume and Revenue trends
+-	Factors impacting sales performance and profitability (discounts, region and seasonality)
+-	Revenue generation by segments
+-	Opportunities for growth and operational improvement
 
-## Key Performance Indicators
+## Key Performance Indicators:
 
-•	Total Sales Revenue
-•	Total Quantity Sold
-•	Gross Profit Margin
-•	Total Profit
+-	Total Sales Revenue
+-	Total Quantity Sold
+-	Gross Profit Margin
+-	Total Profit
 
-## Skills and Analytical Concepts Leveraged
+## Skills and Analytical Concepts Leveraged:
 
-•	Data Gathering
-•	Data Cleaning and transformation
-•	Quick measures
-•	DAX
-•	Data visualization
-•	Dashboard Automation
+-	Data Gathering
+-	Data Cleaning and transformation
+-	Quick measures
+-	DAX
+-	Data visualization
+-	Dashboard Automation
